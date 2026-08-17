@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.37531.7 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Hello World\Hello World.csproj", "{C93FDAC2-3CD7-4C38-88F4-18D09EAE6AEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{22DBF798-3A9A-497B-A117-F9EA817E0D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Minesweeper\Minesweeper.csproj", "{533ACE27-0FE5-460F-99CB-39CF30A2E619}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C93FDAC2-3CD7-4C38-88F4-18D09EAE6AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C93FDAC2-3CD7-4C38-88F4-18D09EAE6AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C93FDAC2-3CD7-4C38-88F4-18D09EAE6AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DBF798-3A9A-497B-A117-F9EA817E0D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DBF798-3A9A-497B-A117-F9EA817E0D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DBF798-3A9A-497B-A117-F9EA817E0D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DBF798-3A9A-497B-A117-F9EA817E0D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533ACE27-0FE5-460F-99CB-39CF30A2E619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533ACE27-0FE5-460F-99CB-39CF30A2E619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533ACE27-0FE5-460F-99CB-39CF30A2E619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533ACE27-0FE5-460F-99CB-39CF30A2E619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
